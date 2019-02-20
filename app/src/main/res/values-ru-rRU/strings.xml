@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SimpleMovieApp</string>
+    <string name="login">Ввойти</string>
+    <string name="password">Пароль</string>
+    <string name="confirm_password">Подтверждение пароля</string>
+    <string name="signin_message">Нет аккаунта? Зарегистрироваться</string>
+    <string name="register">Регистрация</string>
+    <string name="movies">Фильмы</string>
+    <string name="release_date">Дата выхода</string>
+    <string name="synopsis">Описание</string>
+    <string name="original_language">Язык оригинала</string>
+    <string name="popularity">Популярность</string>
+    <string name="back_message">Нажмите назад еще раз что-бы выйти</string>
+    <string name="logout">Выйти</string>
+    <string name="profile">Профиль</string>
+    <string name="network_error">Ошибка сети</string>
+    <string name="vote_average">Рейтинг</string>
+    <string name="list_blank">Список</string>
+    <string name="grid_blank">Таблица</string>
+    <string name="password_include">Пароль должен быть от 4 до 20 символов</string>
+    <string name="login_error">Ошибка входа</string>
+    <string name="invalid_email">Не правильный email</string>
+    <string name="register_error">Ошибка регистрации</string>
+    <string name="user">Пользователь</string>
+    <string name="user_exist">уже существует</string>
+    <string name="user_not_exist">не существует</string>
+    <string name="not_match_password">Пароли не совпадают</string>
+    <string name="you_logged_as">Вы ввошли как</string>
+</resources>

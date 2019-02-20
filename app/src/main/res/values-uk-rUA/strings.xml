@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SimpleMovieApp</string>
+    <string name="login">Увійти</string>
+    <string name="password">Пароль</string>
+    <string name="confirm_password">Підтвердження паролю</string>
+    <string name="signin_message">Немає аккаунта? Зареєструватися</string>
+    <string name="register">Реєстрація</string>
+    <string name="movies">Фільми</string>
+    <string name="vote_average">Рейтинг</string>
+    <string name="release_date">Дата виходу</string>
+    <string name="synopsis">Опис</string>
+    <string name="original_language">Мова оригіналу</string>
+    <string name="popularity">Популярність</string>
+    <string name="back_message">Натисніть назад ще раз щоб вийти</string>
+    <string name="logout">Вийти</string>
+    <string name="profile">Профіль</string>
+    <string name="network_error">Помилка мережі</string>
+    <string name="list_blank">Список</string>
+    <string name="grid_blank">Таблиця</string>
+    <string name="password_include">Пароль має бути від 4 до 20 символів</string>
+    <string name="login_error">Помилка входу</string>
+    <string name="invalid_email">Не вірний email</string>
+    <string name="register_error">Помилка реєстрації</string>
+    <string name="user">Користувач</string>
+    <string name="user_exist">вже існує</string>
+    <string name="user_not_exist">не існує</string>
+    <string name="not_match_password">Паролі не співпадають</string>
+    <string name="you_logged_as">Ви увійшли як</string>
+</resources>
