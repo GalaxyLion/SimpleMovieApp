@@ -36,5 +36,6 @@ public class GridMovieView extends BaseMovieView{
         adapter = new GridMovieAdapter(movies, getBus());
         getSearchResult().setLayoutManager(gridLayoutManager);
         getSearchResult().setAdapter(adapter);
+
     }
 }
